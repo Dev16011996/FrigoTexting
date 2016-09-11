@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "806183406329",
+    "firebase_url": "https://frigotexting-21ac0.firebaseio.com",
+    "project_id": "frigotexting-21ac0",
+    "storage_bucket": "frigotexting-21ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806183406329:android:55becdd77e8fe10d",
+        "android_client_info": {
+          "package_name": "project.dev16.android.frigotexting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806183406329-b056pme9vlbtmsbm07mqtsntt35jibl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn-DM5SnV4wogjXr4ZYY-iOHB6eWBNqDo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
